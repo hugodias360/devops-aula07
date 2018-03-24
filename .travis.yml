@@ -1,0 +1,5 @@
+languange: python
+pythom:
+- "3.4"
+script:
+- cd src; python teste_inic.py
